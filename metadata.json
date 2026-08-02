@@ -1,0 +1,6 @@
+{
+  "name": "Smart Leave & Duty Management System",
+  "description": "A military-themed personnel, leave request, and duty roster management system with automated manpower shortage detection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
